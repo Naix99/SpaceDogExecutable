@@ -8,10 +8,15 @@ This is a prototype I did to force myself to learn unreal. The game should last 
 Support keyboard and xbox control (but mouse in menu, sorry ... prototype things :().
 
 Controls (first for keyboard then for controlpad):
+
 W/A/S/D or Left stick: Move arround.
+
 F/J or LT/RT: Shoot.
+
 K/Q or A/X: Go faster.
+
 E/L or Y/B: Brake.
+
 P or Start menu: Pause.
 
 Hope you enjoy it! 
